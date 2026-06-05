@@ -1,0 +1,10 @@
+{
+    "estimator__model__optimizer": "adam",
+    "estimator__model__numnodes": 64,
+    "estimator__model__numlayer": 1,
+    "estimator__model__dropout_val_in": 0.2,
+    "estimator__model__dropout_val_h": 0.4,
+    "estimator__model__dropout": "yes",
+    "estimator__model__batchnorm": "yes",
+    "estimator__model__activations": "tanh"
+}
